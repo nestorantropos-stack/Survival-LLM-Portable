@@ -1,0 +1,6 @@
+# Se descargan o se crean al usar la app: nunca se suben.
+programa/
+programa.partial/
+datos/
+*.zip
+*.log
